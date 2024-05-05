@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+C:\Users\hp\source\repos\Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+C:\Users\hp\source\repos\Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+C:\Users\hp\source\repos\Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+C:\Users\hp\source\repos\Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+C:\Users\hp\source\repos\Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+C:\Users\hp\source\repos\Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.Up2Date
+C:\Users\hp\source\repos\Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+C:\Users\hp\source\repos\Demo Solution\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+C:\Users\hp\source\repos\Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+C:\Users\hp\source\repos\Demo Solution\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
